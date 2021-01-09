@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804548834127",
+    "project_id": "notify-bell",
+    "storage_bucket": "notify-bell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804548834127:android:22088f0c330a59e8218b3a",
+        "android_client_info": {
+          "package_name": "com.android.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804548834127-gm9cqiiiv6rpf0jg9lblepfvka49htoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPl8_zDDXMy8epCPoq86rbb4mLteVtgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804548834127-gm9cqiiiv6rpf0jg9lblepfvka49htoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
